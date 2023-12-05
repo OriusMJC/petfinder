@@ -12,7 +12,6 @@ const manrope = Manrope({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Petfinder | Politusk diseños",
 };
-
 export default async function RootLayout({
   children,
 }: {
